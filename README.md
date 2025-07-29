@@ -1,10 +1,10 @@
-# Hi there, I'm warabinbin 👋
+# こんにちは, warabinbinです！！
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Software+Engineer;AI+Enthusiast" alt="Typing SVG" />
 </div>
 
-## 🚀 About Me
+## 🚀 自己紹介
 
 🔭 現在取り組んでいること: **RAID管理ユーティリティの開発**  
 🌱 学習中: **Azure、AI**  
